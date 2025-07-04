@@ -1,0 +1,15 @@
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\controller\SpotifyController.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\controller\AuthController.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\repository\ListaReproduccionRepository.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\security\JwtUtil.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\service\SpotifyAuthService.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\MusicApiApplication.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\model\Cancion.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\security\JwtFilter.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\service\SpotifyApiService.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\model\ListaReproduccion.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\security\SecurityConfig.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\security\UserDetailsServiceImpl.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\security\MyUserDetailsService.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\controller\ListaReproduccionController.java
+C:\Users\alex9\Documents\NetBeansProjects\MusicAPI\src\main\java\com\example\musicapi\security\CustomUserDetailsService.java

@@ -1,0 +1,16 @@
+com\example\musicapi\repository\ListaReproduccionRepository.class
+com\example\musicapi\model\ListaReproduccion.class
+com\example\musicapi\MusicApiApplication.class
+com\example\musicapi\security\CustomUserDetailsService.class
+com\example\musicapi\controller\ListaReproduccionController.class
+com\example\musicapi\security\MyUserDetailsService.class
+com\example\musicapi\service\SpotifyAuthService.class
+com\example\musicapi\model\Cancion.class
+com\example\musicapi\security\UserDetailsServiceImpl.class
+com\example\musicapi\security\JwtUtil.class
+com\example\musicapi\controller\AuthController.class
+com\example\musicapi\controller\SpotifyController.class
+com\example\musicapi\security\JwtFilter.class
+com\example\musicapi\security\SecurityConfig.class
+com\example\musicapi\service\SpotifyApiService.class
+com\example\musicapi\service\SpotifyAuthService$TokenResponse.class
